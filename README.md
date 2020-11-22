@@ -1,5 +1,7 @@
 # desafio_loja_backend
 
+Projeto feito em Python com Django
+
 requisitos: Python3
 
 Criar o ambiente virtual
@@ -16,7 +18,7 @@ py -m venv env
 .\env\Scripts\activate
 ```
 
-Instalar as dependencias
+Instalar as dependência
 
 ```
 pip3 install django
