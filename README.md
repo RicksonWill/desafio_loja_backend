@@ -1,24 +1,26 @@
-# desafio_loja_backend
+# Desafio Loja(Produtos) Back-end
 
-Projeto feito em Python com Django
+Olá! Esse projeto feito em **Python** com **Django**
 
-requisitos: Python3
+### Requisitos: Python3
 
-Criar o ambiente virtual
+## 1. Criar o ambiente virtual do Python
+
+- Linux ou Mac
 
 ```
 python3 -m venv ./venv
 source venv/bin/activate
 ```
 
-em windowns
+- em Windows
 
 ```
 py -m venv env
 .\env\Scripts\activate
 ```
 
-Instalar as dependência
+## 2. Instalar as dependência
 
 ```
 pip3 install django
@@ -26,7 +28,7 @@ pip3 install djangorestframework
 pip3 install django-cors-headers
 ```
 
-rodar servidor
+Depois de instalar todas as dependências iniciar o servidor
 
 ```
 python3 manage.py runserver
